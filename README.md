@@ -1,2 +1,2 @@
-# Cousera_Capstone
+# Coursera_Capstone
 This will be used for capstone project
